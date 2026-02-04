@@ -1,0 +1,5 @@
+g1=float(input("Enter first grade:"))
+g2=float(input("Enter second grade:"))
+g3=float(input("Enter third grade:"))
+average=(g1+g2+g3)/3
+print("written Average:",average)
