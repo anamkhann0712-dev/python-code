@@ -1,0 +1,4 @@
+visa=float(input("Enter visa grade:"))
+final=float(input("Enter final grade:"))
+average=(visa+final)/2
+print("Grade average:",average)
