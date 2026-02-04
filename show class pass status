@@ -1,0 +1,5 @@
+average=float(input("nter written average:"))
+if average >=50:
+print("PASSED")
+else:
+print("FAILED")
